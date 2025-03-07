@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Hieuld's GitHub stats](https://github-readme-stats.vercel.app/api?username=hieuledinh&hide=contribs,prs,issues)
+![Hieuld's GitHub stats](https://github-readme-stats.vercel.app/api?username=hieuledinh&hide=contribs,prs,issues&show_icons=true)
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
