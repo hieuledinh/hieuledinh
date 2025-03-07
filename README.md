@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Hieuld's GitHub stats](https://github-readme-stats.vercel.app/api?username=hieuledinh&hide=contribs,prs,issues&show_icons=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieuledinh&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieuledinh&layout=compact) -->
 
 
 ## 💻 Tech Stack
