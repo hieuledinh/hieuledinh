@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Hieuld's GitHub stats](https://github-readme-stats.vercel.app/api?username=hieuledinh&hide=contribs,prs,issues&show_icons=true)
+![Hieuld's GitHub stats](https://github-readme-stats.vercel.app/api?username=hieuledinh&hide=contribs,prs,issues&show_icons=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieuledinh&layout=compact)
+
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -29,3 +32,5 @@ Here are some ideas to get you started:
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+
